@@ -1,2 +1,2 @@
 # Smake
-Make a lot synthetic accelerograms
+Makes a lot synthetic accelerograms
